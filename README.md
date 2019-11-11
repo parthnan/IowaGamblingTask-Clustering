@@ -19,7 +19,7 @@ The data used is gathered from the studies of Fernie & Tunney (2006), Fridberg e
 
 The data contains the series data of upto a 100 card choices for each patient, and associated knowlegde on the presence of dysfunction.
 
-Through Clustering Analysis, the typical patterns for the frequency of choices of cards are output as below.Each column is for the data of a different study. The script provided takes 
+Through Clustering Analysis, the typical patterns for the frequency of choices of cards are output as below.Each column is for the data of a different study. The scripts provided processes only Steingrover's data(can be changed on the first few lines of code).
 
 ![alt text](https://raw.githubusercontent.com/parthnan/IowaGamblingTask-Clustering/master/eachstudy.png)
 
