@@ -4,6 +4,7 @@ The Iowa Gambling Task is a test for Orbitofrontal Cortex (OFC) dysfunction pati
 2. They are told that each deck holds cards that will either reward or penalize them, using game money. 
 3. The goal of the game is to win as much money as possible. The decks differ from each other in the balance of reward versus penalty cards. Thus, some decks are "bad decks", and other decks are "good decks".
 
+![alt text](https://raw.githubusercontent.com/parthnan/IowaGamblingTask-Clustering/master/iowagambling.png)
 
 Most healthy participants sample cards from each deck, and after about 40 or 50 selections are fairly good at sticking to the good decks. Patients with orbitofrontal cortex (OFC) dysfunction, however, continue to persevere with the bad decks, sometimes even though they know that they are losing money overall.
 
