@@ -15,6 +15,7 @@ The data contains the series data of upto a 100 card choices for each patient, a
 
 Through Clustering Analysis, the typical patterns for the frequency of choices of cards are output as below.
 
+![alt text](https://raw.githubusercontent.com/parthnan/IowaGamblingTask-Clustering/master/eachstudy.png)
 
 # Goal of the project
 The dominant patterns for each patient can be analyzed by applying Principal Component Analysis(PCA), and hence, the characteristics of patients with and without OCR can be determined. These characteristics can be used in future machine learning algorithms for detecting OCR though test results.
