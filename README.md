@@ -1,5 +1,9 @@
-# About the Iowa Gambling Task 
+# Goal of the project
 The Iowa Gambling Task is a test for Orbitofrontal Cortex (OFC) dysfunction patients. 
+
+The dominant patterns for each patient can be analyzed by applying Principal Component Analysis(PCA), and hence, the characteristics of patients with and without OCR can be determined. These characteristics can be used in future machine learning algorithms for detecting OCR though test results.
+
+# About the Iowa Gambling Task 
 1. Participants are presented with four virtual decks of cards on a computer screen. 
 2. They are told that each deck holds cards that will either reward or penalize them, using game money. 
 3. The goal of the game is to win as much money as possible. The decks differ from each other in the balance of reward versus penalty cards. Thus, some decks are "bad decks", and other decks are "good decks".
@@ -18,6 +22,5 @@ Through Clustering Analysis, the typical patterns for the frequency of choices o
 
 ![alt text](https://raw.githubusercontent.com/parthnan/IowaGamblingTask-Clustering/master/eachstudy.png)
 
-# Goal of the project
-The dominant patterns for each patient can be analyzed by applying Principal Component Analysis(PCA), and hence, the characteristics of patients with and without OCR can be determined. These characteristics can be used in future machine learning algorithms for detecting OCR though test results.
+
 
