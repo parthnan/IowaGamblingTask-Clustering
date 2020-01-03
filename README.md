@@ -1,3 +1,4 @@
+[![HitCount](http://hits.dwyl.com/parthnan/IowaGamblingTask-Clustering.svg)](http://hits.dwyl.com/parthnan/IowaGamblingTask-Clustering)
 # Goal of the project
 The Iowa Gambling Task is a test for Orbitofrontal Cortex (OFC) dysfunction patients. The project aims to find dominant patterns for each patient by applying Principal Component Analysis(PCA), and determine the characteristics of patients with and without OCR. These characteristics can be used in future machine learning algorithms for detecting OCR though test results.
 
