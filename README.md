@@ -1,5 +1,5 @@
 [![HitCount](http://hits.dwyl.com/parthnan/IowaGamblingTask-Clustering.svg)](http://hits.dwyl.com/parthnan/IowaGamblingTask-Clustering)
-# Goal of the project
+# Goal of the project 
 The Iowa Gambling Task(IGT) is a test for Orbitofrontal Cortex (OFC) dysfunction patients. The project aims to find dominant patterns for each patient by applying PCA, and determine the characteristics of patients with and without OCR. 
 
 The characteristics are then plotted, to find out the clusters and correlation between test score and OCR prevalence. The final step is to find out typical patterns (decreasing order of occurence) as below.
