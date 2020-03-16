@@ -5,7 +5,7 @@ The Iowa Gambling Task(IGT) is a test for Orbitofrontal Cortex (OFC) dysfunction
 The characteristics are then plotted, to find out the clusters and correlation between test score and OCR prevalence. The final step is to find out typical patterns (decreasing order of occurence) as below.
  
 The data used is gathered from the studies of Fernie & Tunney (2006), Fridberg et al. (2010), Kjome et al. (2010), Premkumar et al. (2008), Rodriguez-Sanchez et al. (2005), Toplak et al. (2005), Wood et al. (2005) and Steingroever et al (2013) (All based on a standardized IGT) 
-
+ 
 # About the Iowa Gambling Task 
 1. Participants are presented with four decks of cards.
 2. They are told that each deck holds cards that will either reward or penalize them, using real money(for the listed studies below). 
