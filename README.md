@@ -2,7 +2,7 @@
 # Goal of the project 
 The Iowa Gambling Task(IGT) is a test for Orbitofrontal Cortex (OFC) dysfunction patients. The project aims to find dominant patterns for each patient by applying PCA, and determine the characteristics of patients with and without OCR. 
  
-The characteristics are then plotted, to find out the clusters and correlation between test score and OCR prevalence. The final step is to find out typical patterns (decreasing order of occurence) as below.
+The characteristics are then plotted, to find out the clusters and correlation between test score and OCR prevalence. The final step is to find out typical patterns (decreasing order of occurence) as below. 
    
 The data used is gathered from the studies of Fernie & Tunney (2006), Fridberg et al. (2010), Kjome et al. (2010), Premkumar et al. (2008), Rodriguez-Sanchez et al. (2005), Toplak et al. (2005), Wood et al. (2005) and Steingroever et al (2013) (All based on a standardized IGT) 
  
